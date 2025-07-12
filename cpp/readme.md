@@ -140,4 +140,5 @@ The table shows:
 
 ## License
 
-This project is available under the MIT License. See LICENSE file for details.
+This project is available under the MIT License. See the LICENSE file for details.
+
